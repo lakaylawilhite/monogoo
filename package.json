@@ -1,0 +1,32 @@
+{
+  "name": "mongoo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakaylawilhite"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lakaylawilhite"
+  },
+  "homepage": "https://github.com/lakaylawilhite/",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.6.6",
+    "logger": "^1.7.0",
+    "request": "^2.78.0"
+  }
+}
